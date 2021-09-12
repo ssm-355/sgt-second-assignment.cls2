@@ -1,0 +1,1 @@
+# sgt-second-assignment.cls2
